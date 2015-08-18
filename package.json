@@ -7,7 +7,7 @@
     "lib"
   ],
   "bin": {
-    "geoip": "bin/geoip"
+    "geoip": "./bin/geoip"
   },
   "scripts": {
     "geoip": "./bin/geoip",
