@@ -6,11 +6,7 @@
   "files": [
     "lib"
   ],
-  "bin": {
-    "geoip": "./bin/geoip"
-  },
   "scripts": {
-    "geoip": "./bin/geoip",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "config": {
